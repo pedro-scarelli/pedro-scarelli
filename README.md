@@ -13,7 +13,7 @@
 
 </div><br/>
 
-Apaixonado por tecnologia, estudante de Sistemas de Informação na FURB aspirante a dev back-end. "Com fé e determinação, sei que vou realizar meus sonhos."
+Apaixonado por tecnologia, estudante de Sistemas de Informação na FURB aspirante a desenvolvedor.
 
 ##  Contato
 
