@@ -13,7 +13,7 @@
 
 </div><br/>
 
-Apaixonado por tecnologia, estudante de Sistemas de Informação na FURB aspirante a desenvolvedor.
+Apaixonado por tecnologia, atualmente cursando Sistemas de Informação na FURB, aspirante a desenvolvedor.
 
 ##  Contato
 
