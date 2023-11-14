@@ -13,7 +13,7 @@
 
 </div><br/>
 
-Apaixonado por tecnologia, atualmente cursando Sistemas de Informação na FURB, aspirante a desenvolvedor.
+Sou aspirante a desenvolvedor há 1 ano, atualmente dedico meu tempo para desenvolvimento pessoal. Estudo tecnologias como HTML, CSS, Java, JavaScript, NodeJs e SQLserver
 
 ##  Contato
 
