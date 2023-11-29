@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-scarelli/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pvscarelli/)
 
-## Tecnologias que estou estudando
+## Tecnologias
 
 <div style= "display: inline_block"><br/>
 <img align= "center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)" /> 
@@ -13,7 +13,7 @@
 
 </div><br/>
 
-Sou aspirante a desenvolvedor há 1 ano, atualmente dedico meu tempo para desenvolvimento pessoal. Estudo tecnologias como HTML, CSS, Java, JavaScript, NodeJs e SQLserver
+Sou aspirante a desenvolvedor Java há 1 ano, atualmente dedico meu tempo para desenvolvimento pessoal. Estudo tecnologias como Java, Spring e PostgreSQL. 
 
 ##  Contato
 
