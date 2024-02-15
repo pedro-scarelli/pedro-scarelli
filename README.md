@@ -18,7 +18,7 @@
 
 </div><br/>
 
-Sou aspirante a desenvolvedor Java há 1 ano, atualmente dedico meu tempo para desenvolvimento pessoal. Estudo tecnologias como Java, Spring e PostgreSQL. 
+Sou apaixonado por programação 1 ano, atualmente dedico meu tempo para desenvolvimento pessoal. Estudo tecnologias como JavaScript, Angular e PostgreSQL. 
 
 ##  Contato
 
