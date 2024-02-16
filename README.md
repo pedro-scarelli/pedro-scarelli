@@ -18,7 +18,7 @@
 
 </div><br/>
 
-Sou apaixonado por programação 1 ano, atualmente dedico meu tempo para desenvolvimento pessoal. Estudo tecnologias como JavaScript, Angular e PostgreSQL. 
+Apaixonado por programação desde o final de 2022, atualmente dedico meu tempo para desenvolvimento pessoal. Estudo tecnologias como JavaScript, Angular e PostgreSQL. 
 
 ##  Contato
 
