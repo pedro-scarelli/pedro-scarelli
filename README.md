@@ -19,7 +19,7 @@
 
 </div><br/>
 
-Apaixonado por programação desde o final de 2022, atualmente dedico meu tempo para desenvolvimento pessoal. Estudo tecnologias como JavaScript, Angular e PostgreSQL. 
+Em constante evolução desde o final de 2022, cada vez mais obcecado em me tornar um desenvolvedor excepcional. Movido por desafios, busco aprimorar minhas habilidades. Atualmente, dedicado ao estudo das tecnologias de Front-End. Comprometido com a excelência.
 
 ##  Contato
 
