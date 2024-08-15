@@ -22,7 +22,7 @@
 
 </div><br/>
 
-Em constante evolução desde o final de 2022, cada vez mais obcecado em me tornar um desenvolvedor excepcional. Movido por desafios, busco aprimorar minhas habilidades. Atualmente, dedicado ao estudo das tecnologias de Front-End. Comprometido com a excelência.
+Em constante evolução, cada vez mais obcecado em me tornar um desenvolvedor excepcional. Movido por desafios, busco aprimorar minhas habilidades. Comprometido com a excelência.
 
 ##  Contato
 
