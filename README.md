@@ -28,7 +28,7 @@
 <img align= "center" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"  />
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-scarelli&show_icons=true&theme=dark)
 
 
 </div><br/>
