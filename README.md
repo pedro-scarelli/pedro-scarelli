@@ -1,11 +1,14 @@
-### Hello, my name is Pedro Scarelli!
+## <img loading="lazy" alt="Man Technologist Image" width="24" src="https://em-content.zobj.net/source/google/412/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png"> Pedro Scarelli
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroscarelli/)
 
-## Tecnologies
+<p>
+  Constantly evolving, increasingly obsessed with becoming an exceptional developer. Driven by challenges, I strive to enhance my skills. Committed to excellence.
+</p>
+
+### 🤖 Tecnologies
 
 <div style= "display: inline_block"><br/>
-
 
 <img align= "center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)" /> 
 <img align= "center" alt="SpringBoot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
@@ -27,25 +30,16 @@
 <img align= "center" alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img align= "center" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"  />
 
-
-## Statistics
+### 📊 Statistics
 
 <div style= "display: inline_block"><br/>
 
 <p>
   
-  <img height=200 align="left" alt="Pedro Scarelli GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=pedro-scarelli&show_icons=true&theme=dark" />
+  <img height=200 align="left" style="padding-right: 10px;" alt="Pedro Scarelli GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=pedro-scarelli&show_icons=true&theme=tokyonight" />
+<!-- &include_all_commits=true -->
+  <img height=200 align="left" alt="Pedro Scarelli GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-scarelli&layout=compact&langs_count=8&theme=tokyonight&custom_title=Tecnologies" />
 
-  
-  <img height=200 align="left" alt="Pedro Scarelli GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-scarelli&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-
-  
 </p>
 
-</div><br/>
-
-Constantly evolving, increasingly obsessed with becoming an exceptional developer. Driven by challenges, I strive to enhance my skills. Committed to excellence.
-
-##  Contact
-
-- pvscarelli@gmail.com
+</div>
