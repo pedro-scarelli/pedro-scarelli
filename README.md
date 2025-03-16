@@ -33,6 +33,7 @@
 <div style= "display: inline_block"><br/>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-scarelli&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-scarelli&layout=compact)
 
 
 </div><br/>
