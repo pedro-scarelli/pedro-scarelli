@@ -36,8 +36,7 @@
 
 <p>
   
-  <img height=200 align="left" style="padding-right: 10px;" alt="Pedro Scarelli GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=pedro-scarelli&show_icons=true&theme=tokyonight" />
-<!-- &include_all_commits=true -->
+  <img height=200 align="left" style="padding-right: 10px;" alt="Pedro Scarelli GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=pedro-scarelli&show_icons=true&theme=tokyonight&include_all_commits=true" />
   <img height=200 align="left" alt="Pedro Scarelli GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-scarelli&layout=compact&langs_count=8&theme=tokyonight&custom_title=Tecnologies" />
 
 </p>
