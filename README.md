@@ -32,13 +32,15 @@
 
 <div style= "display: inline_block"><br/>
 
-<a href="https://github.com/pedro-scarelli/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pedro-scarelli&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/pedro-scarelli/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-scarelli&layout=compact&langs_count=8&card_width=320" />
-</a>
+<p>
+  
+  <img height=200 align="left" alt="Pedro Scarelli GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=pedro-scarelli&show_icons=true&theme=dark" />
 
+  
+  <img height=200 align="left" alt="Pedro Scarelli GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-scarelli&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+
+  
+</p>
 
 </div><br/>
 
