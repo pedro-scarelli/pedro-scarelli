@@ -1,8 +1,8 @@
-### Olá, sou o Pedro Virissimo Scarelli!
+### Hello, my name is Pedro Scarelli!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroscarelli/)
 
-## Tecnologias
+## Tecnologies
 
 <div style= "display: inline_block"><br/>
 
@@ -23,8 +23,8 @@
 
 </div><br/>
 
-Em constante evolução, cada vez mais obcecado em me tornar um desenvolvedor excepcional. Movido por desafios, busco aprimorar minhas habilidades. Comprometido com a excelência.
+Constantly evolving, increasingly obsessed with becoming an exceptional developer. Driven by challenges, I strive to enhance my skills. Committed to excellence.
 
-##  Contato
+##  Contact
 
 - pvscarelli@gmail.com
