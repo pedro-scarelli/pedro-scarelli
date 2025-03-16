@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroscarelli/)
 
 <p>
-  Constantly evolving, increasingly obsessed with becoming an exceptional developer. Driven by challenges, I strive to enhance my skills. Committed to excellence.
+ I am 20 years old, born and raised in Brazil, constantly evolving, obsessed with becoming an exceptional developer. Driven by challenges, I strive to enhance my skills.
 </p>
 
 ### 🤖 Tecnologies
