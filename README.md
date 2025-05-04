@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroscarelli/)
 
 <p>
- Tenho 20 anos, nascido e criado em Blumeanu - SC, evoluindo constantemente, obcecado em me tornar um desenvolvedor de software excepcional, para que possa mudar a qualidade de vida das pessoas.
+ Tenho 20 anos, nascido e criado em Blumeanu - SC. Em constante evolução, obcecado em me tornar um desenvolvedor de software excepcional, para que possa melhorar a qualidade de vida das pessoas.
 </p>
 
 ### 🤖 Tecnologias
