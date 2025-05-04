@@ -6,7 +6,7 @@
  Tenho 20 anos, nascido e criado em Blumeanu - SC, evoluindo constantemente, obcecado em me tornar um desenvolvedor de software excepcional, para que possa mudar a qualidade de vida das pessoas.
 </p>
 
-### 🤖 Tecnologies
+### 🤖 Tecnologias
 
 <div style= "display: inline_block"><br/>
 
@@ -30,7 +30,7 @@
 <img align= "center" alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img align= "center" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"  />
 
-### 📊 Statistics
+### 📊 Estatísticas
 
 <div style= "display: inline_block"><br/>
 
