@@ -29,13 +29,3 @@
 <img align= "center" alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img align= "center" alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img align= "center" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"  />
-
-<div style= "display: inline_block"><br/>
-
-<p>
- 
-  <img height=200 align="center" alt="Pedro Scarelli GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-scarelli&layout=compact&langs_count=8&theme=shadow_green&custom_title=Tecnologies" />
-
-</p>
-
-</div>
