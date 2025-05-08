@@ -1,10 +1,14 @@
-## <img loading="lazy" alt="Man Technologist Image" width="24" src="https://em-content.zobj.net/source/google/412/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png"> Pedro Scarelli
-
+# Olá 👋, meu nome é Pedro Scarelli
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroscarelli/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pvscarelli@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_pedroscarelli)
 
+## <img loading="lazy" alt="Man Technologist Image" width="24" src="https://em-content.zobj.net/source/google/412/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png"> Sobre mim
 <p>
- Tenho 20 anos, nascido e criado em Blumenau - SC. Em constante evolução, obcecado em me tornar um desenvolvedor de software excepcional, para que possa melhorar a qualidade de vida das pessoas.
+ Sou natural de Blumenau - SC, sou um grande fã de Java, C# e GoLang, e quando não estou resolvendo bugs ou construindo sonhos, você pode me encontrar surfando 🏄, levantando pesos 🏋️, e passando tempo com a minha família ❤️.
 </p>
+
+
 
 ### 🤖 Tecnologias
 
