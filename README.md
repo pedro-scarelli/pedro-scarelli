@@ -1,8 +1,16 @@
 <h1 align="center">Olá 👋, meu nome é Pedro Scarelli</h1>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroscarelli/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pvscarelli@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_pedroscarelli)
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedroscarelli/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pvscarelli@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/_pedroscarelli">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ## <img loading="lazy" alt="Man Technologist Image" width="24" src="https://em-content.zobj.net/source/google/412/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png"> Sobre mim
 <p>
