@@ -6,7 +6,7 @@
 
 ## <img loading="lazy" alt="Man Technologist Image" width="24" src="https://em-content.zobj.net/source/google/412/technologist-light-skin-tone_1f9d1-1f3fb-200d-1f4bb.png">  Sobre mim
 <p>
- Sou natural de Blumenau (SC), sou um grande fã de Java, C# e GoLang.
+ Natural de Blumenau (SC), sou um grande fã de Java e GoLang.
 </p>
 
 
